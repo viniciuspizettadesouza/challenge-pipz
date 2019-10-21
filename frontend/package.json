@@ -8,7 +8,8 @@
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-scripts": "3.2.0",
-    "react-star-wars-crawl": "^2.0.0"
+    "react-star-wars-crawl": "^2.0.0",
+    "roman-numerals": "^0.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
